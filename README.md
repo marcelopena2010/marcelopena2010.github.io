@@ -24,21 +24,58 @@ Minha trajetória também inclui análise de requisitos, investigação de falha
 
 ## Tecnologias e ferramentas
 
+### Stack profissional
+
+**Principais especialidades:** PL/SQL, JavaScript, Node.js, Delphi, C e C++.
+
+#### Back-end e APIs
+
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C Sharp" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Delphi-E62431?style=flat-square&logo=delphi&logoColor=white" alt="Delphi" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+</p>
+
+#### Front-end
+
+<p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+#### Bancos de dados
+
+<p>
+  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white" alt="PL/SQL" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+#### DevOps e ferramentas
+
+<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
+### Tecnologias em estudo
+
+Estou ampliando meus conhecimentos e buscando oportunidades que permitam desenvolver experiência prática nestas tecnologias:
+
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby" />
+</p>
 ## Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
@@ -48,12 +85,24 @@ Minha trajetória também inclui análise de requisitos, investigação de falha
 
 > Os repositórios estão sendo revisados gradualmente para receber documentação, instruções de execução e uma apresentação mais clara.
 
-## Formação e desenvolvimento profissional
+## Formação e especializações
+
+### Formação acadêmica
 
 - Bacharelado em Ciência da Computação
 - MBA em Engenharia de Software
-- Especialização em Cybersecurity
-- Especialização em Inteligência Artificial na Prática
+
+### Especializações concluídas
+
+<p>
+  <img src="https://img.shields.io/badge/Inteligência%20Artificial-6A1B9A?style=for-the-badge" alt="Inteligência Artificial" />
+  <img src="https://img.shields.io/badge/Cybersecurity-0A66C2?style=for-the-badge&logo=owasp&logoColor=white" alt="Cybersecurity" />
+</p>
+
+- **Inteligência Artificial na Prática:** aplicação responsável de IA, automação e melhoria de processos.
+- **Cybersecurity:** segurança de aplicações, proteção de dados e desenvolvimento seguro.
+
+Busco aplicar esses conhecimentos no desenvolvimento de sistemas, APIs, integrações e soluções seguras apoiadas por Inteligência Artificial.
 
 ## Acessibilidade
 
