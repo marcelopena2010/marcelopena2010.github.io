@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Marcelo Pena — Desenvolvedor Back-end e Fullstack</title>
+  <desc id="desc">Banner azul e roxo com elementos de tecnologia, o nome Marcelo Pena e suas principais áreas de atuação.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071426"/>
+      <stop offset="0.52" stop-color="#102A56"/>
+      <stop offset="1" stop-color="#2C1762"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#4CC9F0" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#4CC9F0" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#A8DADC" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <circle cx="1040" cy="40" r="270" fill="url(#glow)"/>
+  <circle cx="95" cy="330" r="190" fill="url(#glow)" opacity="0.5"/>
+
+  <g fill="none" stroke="#4CC9F0" stroke-width="2" stroke-opacity="0.42">
+    <path d="M900 88h74l28 28h112"/>
+    <path d="M842 268h92l32-32h150"/>
+    <path d="M980 150h48l24 24h84"/>
+  </g>
+  <g fill="#67E8F9">
+    <circle cx="900" cy="88" r="5"/>
+    <circle cx="1114" cy="116" r="5"/>
+    <circle cx="842" cy="268" r="5"/>
+    <circle cx="1116" cy="236" r="5"/>
+    <circle cx="980" cy="150" r="5"/>
+    <circle cx="1136" cy="174" r="5"/>
+  </g>
+
+  <circle cx="1000" cy="183" r="72" fill="#7C3AED" opacity="0.2" filter="url(#softGlow)"/>
+  <path d="M989 137l-44 46 44 46M1051 137l44 46-44 46M1034 116l-28 134" fill="none" stroke="#E0F2FE" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="86" y="116" fill="#67E8F9" font-size="20" font-weight="700" letter-spacing="5">OLÁ, EU SOU</text>
+    <text x="82" y="200" fill="#FFFFFF" font-size="68" font-weight="800" letter-spacing="1">MARCELO PENA</text>
+    <text x="86" y="252" fill="#DCEBFF" font-size="29" font-weight="600">Desenvolvedor Back-end • Fullstack</text>
+    <text x="86" y="300" fill="#A8C7FA" font-size="21" font-weight="500">Java  •  .NET  •  APIs REST  •  Banco de Dados</text>
+  </g>
+</svg>
