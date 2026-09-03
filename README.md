@@ -21,9 +21,9 @@
 
 ## Sobre mim
 
-Olá! Sou Marcelo Pena, Desenvolvedor Back-end / Fullstack e formado em Ciência da Computação.
+Olá! Sou Marcelo Pena, Desenvolvedor Fullstack, formado em Ciência da Computação, com experiência em Back-end.
 
-Tenho experiência com desenvolvimento e manutenção de sistemas, APIs REST, integrações e bancos de dados. Minha principal área de atuação envolve Java, C#/.NET, Angular, PL/SQL, JavaScript e Node.js. Também possuo conhecimentos em Delphi, C e C++.
+Tenho experiência com desenvolvimento e manutenção de sistemas, APIs REST, integrações e bancos de dados, especialmente com Java e C#/.NET. Minha atuação também envolve Angular, PL/SQL, JavaScript e Node.js. Tenho conhecimentos avançados em PL/SQL, JavaScript, Node.js, Delphi, C e C++.
 
 Sou especialista em Cybersecurity e Inteligência Artificial na Prática, além de possuir MBA em Engenharia de Software. Quero unir minha experiência em desenvolvimento com segurança e Inteligência Artificial para criar soluções modernas, seguras e acessíveis.
 
@@ -35,7 +35,7 @@ Sou surdo e valorizo ambientes profissionais acessíveis, com comunicação clar
 
 ### Stack profissional
 
-**Principais especialidades:** PL/SQL, JavaScript, Node.js, Delphi, C e C++.
+**Conhecimentos avançados:** PL/SQL, JavaScript, Node.js, Delphi, C e C++.
 
 #### Back-end e APIs
 
@@ -87,10 +87,17 @@ Estou ampliando meus conhecimentos e buscando oportunidades que permitam desenvo
 </p>
 ## Projetos em destaque
 
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [Clone Airbnb](https://github.com/marcelopena2010/clone-app-airbnb) | Aplicação fullstack de estudo inspirada em uma plataforma de hospedagens. | Angular 18, .NET 8, Entity Framework, SQL Server, Swagger |
-| [Minhas Finanças API](https://github.com/marcelopena2010/minhasfinancas-api) | API para estudo de gerenciamento de finanças pessoais. | Java 11, Spring Boot, Spring Data JPA, PostgreSQL, MySQL, H2 |
+### [Clone Airbnb](https://github.com/marcelopena2010/clone-app-airbnb)
+
+Aplicação fullstack de estudo inspirada em uma plataforma de hospedagens.
+
+**Tecnologias:** Angular 18, .NET 8, Entity Framework, SQL Server e Swagger.
+
+### [Minhas Finanças API](https://github.com/marcelopena2010/minhasfinancas-api)
+
+API para estudo de gerenciamento de finanças pessoais.
+
+**Tecnologias:** Java 11, Spring Boot, Spring Data JPA, PostgreSQL, MySQL e H2.
 
 > Os repositórios estão sendo revisados gradualmente para receber documentação, instruções de execução e uma apresentação mais clara.
 
