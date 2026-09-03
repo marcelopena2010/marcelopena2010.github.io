@@ -35,7 +35,7 @@ Sou surdo e valorizo ambientes profissionais acessíveis, com comunicação clar
 
 ### Stack profissional
 
-**Conhecimentos avançados:** PL/SQL, JavaScript, Node.js, Delphi, C e C++.
+**Principais conhecimentos:** Java, Spring Boot, C#, .NET, Angular, TypeScript, JavaScript, Node.js, PL/SQL, Oracle, SQL, MySQL, Delphi, C, C++, APIs REST, Git, Docker e Azure DevOps.
 
 #### Back-end e APIs
 
