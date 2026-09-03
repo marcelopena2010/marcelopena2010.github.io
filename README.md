@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Marcelo Pena — Desenvolvedor Back-end e Fullstack" width="100%" />
+  <img src="./assets/header.svg" alt="Marcelo Pena — Desenvolvedor Fullstack • Java • .NET • Angular" width="100%" />
 </p>
 
 <p align="center">
@@ -9,18 +9,27 @@
   <a href="https://github.com/marcelopena2010">
     <img src="https://img.shields.io/badge/GitHub-marcelopena2010-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Marcelo Pena" />
   </a>
+  <a href="https://wa.me/5521959035502?text=Ol%C3%A1%2C%20Marcelo!%20Vi%20seu%20portf%C3%B3lio%20e%20gostaria%20de%20conversar%20sobre%20uma%20oportunidade."
+     target="_blank"
+     rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/WhatsApp-Falar%20comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+      alt="Falar com Marcelo Pena pelo WhatsApp"
+    />
+  </a>
 </p>
 
 ## Sobre mim
 
-Sou desenvolvedor de software com experiência em desenvolvimento, manutenção e sustentação de sistemas corporativos. Trabalho principalmente com **Java**, **C#/.NET**, **APIs REST** e **bancos de dados**, valorizando código organizado, documentação clara e soluções fáceis de manter.
+Olá! Sou Marcelo Pena, Desenvolvedor Back-end / Fullstack e formado em Ciência da Computação.
 
-Minha trajetória também inclui análise de requisitos, investigação de falhas, testes, integrações e melhoria contínua de processos. Parte importante dessa experiência foi construída em projetos corporativos privados; aqui no GitHub, apresento projetos pessoais, estudos e registros da minha evolução técnica.
+Tenho experiência com desenvolvimento e manutenção de sistemas, APIs REST, integrações e bancos de dados. Minha principal área de atuação envolve Java, C#/.NET, Angular, PL/SQL, JavaScript e Node.js. Também possuo conhecimentos em Delphi, C e C++.
 
-- Foco profissional: desenvolvimento **Back-end / Fullstack**
-- Experiência com sistemas corporativos, APIs e integrações
-- Interesse em arquitetura de software, segurança, IA e acessibilidade digital
-- Comunicação preferencial por texto, com clareza e objetividade
+Sou especialista em Cybersecurity e Inteligência Artificial na Prática, além de possuir MBA em Engenharia de Software. Quero unir minha experiência em desenvolvimento com segurança e Inteligência Artificial para criar soluções modernas, seguras e acessíveis.
+
+Atualmente, estou aprimorando meus conhecimentos em Go, React, Python e Ruby.
+
+Sou surdo e valorizo ambientes profissionais acessíveis, com comunicação clara, uso de texto, legendas e boa documentação.
 
 ## Tecnologias e ferramentas
 
